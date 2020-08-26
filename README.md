@@ -3,7 +3,7 @@
 <!--
 **ElisabethPlu/ElisabethPlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working looking what my next project will be.
 - 🌱 I’m currently learning Vue.js because it look so cool.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: here !
 - 😄 Pronouns: she
 - ⚡ Fun fact: My dog is the best dog on Earth.
--->
+
